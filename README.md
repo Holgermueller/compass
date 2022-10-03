@@ -1,1 +1,1 @@
-# HolgerMuellerWriter
+# A Compass
