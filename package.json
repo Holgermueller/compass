@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Holgermueller/compass/issues"
   },
-  "homepage": "https://github.com/Holgermueller/compass#readme"
+  "homepage": "https://github.com/Holgermueller/compass#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "cssnano": "^5.1.13",
+    "postcss": "^8.4.17",
+    "postcss-cli": "^10.0.0"
+  }
 }
